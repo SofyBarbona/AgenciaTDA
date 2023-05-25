@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1670007712 source:c:\users\sofibarbona\desktop\practica parcial\final diciembre 2020 tem 2\agencia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Agencia.h"
+	"Vehiculo.h"
+
+1669758008 c:\users\sofibarbona\desktop\practica parcial\final diciembre 2020 tem 2\agencia.h
+
+1669758008 c:\users\sofibarbona\desktop\practica parcial\final diciembre 2020 tem 2\vehiculo.h
+
+1669759873 source:c:\users\sofibarbona\desktop\practica parcial\final diciembre 2020 tem 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Agencia.h"
+	"Vehiculo.h"
+
+1669759836 source:c:\users\sofibarbona\desktop\practica parcial\final diciembre 2020 tem 2\vehiculo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Agencia.h"
+	"Vehiculo.h"
+
